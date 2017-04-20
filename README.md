@@ -2,7 +2,7 @@
 
 ## Guide
 https://hellokoding.com/spring-boot-hello-world-example-with-jsp/
-- test1
+- test2
 ## What you'll need
 - JDK 1.7 or later
 - Maven 3 or later
